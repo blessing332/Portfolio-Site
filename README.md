@@ -23,4 +23,10 @@ Day 2-
 
 GOAL FOR TODAY:
 
--Finish HTML 
+-Finish HTML
+
+Accomplished:
+
+-Finished Adding Resume
+
+-Added Bio
