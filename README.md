@@ -18,3 +18,9 @@ Mini Survey where you Select an option
 GOAL FOR TODAY:
 
 *HTML layout nearly completed
+
+Day 2-
+
+GOAL FOR TODAY:
+
+-Finish HTML 
