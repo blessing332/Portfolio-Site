@@ -30,3 +30,17 @@ Accomplished:
 -Finished Adding Resume
 
 -Added Bio
+
+-Added Profile Picture
+
+-Linked Rock, Paper, Scissors game
+
+-Added Checklist
+
+-Added Social Media Links
+
+GOAL FOR TOMORROW:
+
+-Have 3 Points of jQuery completed
+
+-Have game fully functional through JS/JQ
