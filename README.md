@@ -39,7 +39,7 @@ Accomplished:
 
 -Added Social Media Links
 
-GOAL FOR TOMORROW:
+GOAL FOR Saturday:
 
 -Have 3 Points of jQuery completed
 
