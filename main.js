@@ -2,11 +2,21 @@
 //   console.log('oops! I still have to link my jQuery properly!');
 // } else {console.log('I did it! I linked jQuery and this js file!')};
 
-$('.pic').click(function() {
-  $('.pic').attr('href', 'https://github.com/blessing332')
-}
 
-$(()=>{
-
-
+$('#change').click(function() {
+  $('#change').css('text-decoration', 'underline')
 })
+
+
+
+$('body').dblclick(function() {
+  $('body').css('font-family', 'verdana')
+})
+
+$('li').mouseover(function() {
+  $('li').css('color', 'purple')
+})
+
+
+// $(()=>{
+// })
