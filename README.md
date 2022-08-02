@@ -44,3 +44,9 @@ GOAL FOR Saturday:
 -Have 3 Points of jQuery completed
 
 -Have game fully functional through JS/JQ
+
+Last Day:
+
+-Finished adding jQuery and JS elements
+
+-Finished adding CSS
